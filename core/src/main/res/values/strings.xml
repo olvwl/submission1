@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="movie_label">Movie</string>
+    <string name="favorite">Favorite Movie</string>
+    <string name="detail">Detail Movie</string>
+    <string name="empty">Choose Your Favorite Movie!</string>
+</resources>
