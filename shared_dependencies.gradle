@@ -32,6 +32,7 @@ dependencies {
     implementation "androidx.room:room-ktx:$room_version"
     //noinspection GradleDependency
     androidTestImplementation "androidx.room:room-testing:$room_version"
+    implementation 'com.android.support:multidex:1.0.3'
 
     //Koin
     implementation "org.koin:koin-core:$koin_version"
